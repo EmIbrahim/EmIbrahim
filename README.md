@@ -1,9 +1,18 @@
 ### Hi there 👋
 
 
-## Muhammad Ibrahim
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: emibrahim577@gmail.com
+# Muhammad Ibrahim
+🧑‍🎓
+-  BSCS - IBA Karachi
+
+
+### Languages to work with
+
+- C++
+- C
+- Java
+- BASIC
+
 
 >This is just a start, much more to come.
 
