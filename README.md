@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-# Muhammad Ibrahim
+# Muhammad Ibrahim Farid
 🧑‍🎓
 -  BSCS - IBA Karachi
 
