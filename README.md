@@ -1,30 +1,37 @@
-### Hi there 👋
+👋 Welcome to My GitHub Profile!
+
+Profile Banner
+
+I'm Muhammad Ibrahim, and I think I code. 🚀
+
+About Me
 
 
-# Muhammad Ibrahim Farid
-🧑‍🎓
--  BSCS - IBA Karachi
+🌍 Based in Karachi, Pakistan
+🎓 Currently at IBA, Karachi
+🌱 Always eager to learn and explore new technologies
+📚 Open-source enthusiast
+💡 Love to solve problems and create innovative solutions
+Education 📚
+🎓 BS Computer Science, IBA Karachi, Graduating 2026
+Programming Languages and Tools 🛠️
+Here are some of the languages and tools I'm proficient in:
 
+Java
+C++
+Python
+And many more!
 
-### Languages to work with
+Current Goals 🎯
+🚀 Contribute to more open-source projects
+📖 Master in Something
+🌐 Build application that reaches [Specific Goal]
+🌱 Continuously improve my coding and problem-solving skills
+📚 Share knowledge and insights through articles and tutorials
+Get in Touch 📫
+Let's connect and collaborate! You can reach out to me via:
 
-![46140125-da084900-c26d-11e8-8ea7-c45ae6306309](https://user-images.githubusercontent.com/113703307/192153701-dde0d04f-50d1-40ef-9c68-c868fbd4d0ca.png)
-![56295546-32a81200-60ea-11e9-8761-0b726b20fd51](https://user-images.githubusercontent.com/113703307/192153740-777e5877-6e14-42c7-b86e-6a0eac8f0230.png)
+📧 Email: emibrahim577@gmail.com
+🔗 LinkedIn: [LinkedIn/](https://www.linkedin.com/in/muhammad-ibrahim-farid/)
+Feel free to explore my repositories, and don't hesitate to open issues, suggest improvements, or just say hello! 👋
 
-
->This is just a start, much more to come.
-
-<!--
-**EmIbrahim/EmIbrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: emibrahim577@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
