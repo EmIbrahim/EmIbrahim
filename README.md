@@ -1,7 +1,5 @@
 👋 Welcome to My GitHub Profile!
 
-Profile Banner
-
 I'm Muhammad Ibrahim, and I think I code. 🚀
 
 About Me
